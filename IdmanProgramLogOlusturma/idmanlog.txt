@@ -1,0 +1,11 @@
+İdman Programı
+Burpee: 50
+Pushup: 50
+Situp: 50
+Squat: 50
+-----------------------
+1. Hareket Türü: burpee, Sayı: 40
+2. Hareket Türü: pushup, Sayı: 50
+3. Hareket Türü: situp, Sayı: 50
+4. Hareket Türü: squat, Sayı: 50
+5. Hareket Türü: burpee, Sayı: 10
